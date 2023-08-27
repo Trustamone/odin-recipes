@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background-image: url("food-background.png");
+    background-repeat: no-repeat;
+}
+
+ul {
+    border: solid 1px red;
+    padding: 0;
+    background-color: turquoise;
+}
+
+li {
+    border: dotted 3px white;
+    margin: auto;
+    border-radius: 10px;
+}
+
+a {
+    color: red;
+}
+
+h1 {
+    border: ridge 10px brown;
+    background-color: orange;
+    color: purple;
+}
